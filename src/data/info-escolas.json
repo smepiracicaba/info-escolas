@@ -1,0 +1,34 @@
+{
+  "escolas": [
+    {
+      "nome": "Alberto Tomazi",
+      "endereco": "R. Batatais, 381 - Parque Sao Jorge, Piracicaba - SP",
+      "bairro": "Guamium",
+      "loteamento": "Parque São Jorge",
+      "regiao": "Norte",
+      "telefone": {
+        "primario": "3421-0166",
+        "sencundario": ""
+      },
+      "localizacao": {
+        "latitude": "-22.665467",
+        "longitude": "-47.625104"
+      }
+    },
+    {
+      "nome": "Antonia Benedita Eugênio",
+      "endereco": "Rua Maria de Lourdes Fernandes Jacob, nº 111",
+      "bairro": "Mário Dedini",
+      "loteamento": "Jardim Gilda",
+      "regiao": "Norte",
+      "telefone": {
+        "primario": "3413-7117",
+        "sencundario": ""
+      },
+      "localizacao": {
+        "latitude": "-22.663712",
+        "longitude": "-47.6572974"
+      }
+    }
+  ]
+}
